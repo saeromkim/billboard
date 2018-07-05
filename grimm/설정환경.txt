@@ -1,0 +1,4 @@
+많은 개발자들이 싱글쿼터 (') 앞에 백슬래시를 붙이는것, 
+혹은 magic_quotes_gpc = on 으로 설정해두는 것으로 SQL Injection에 
+대한 모든 방어를 끝내는데,
+-->이거 off로 해줘야 백슬래쉬안붙고 sql injection먹힘
